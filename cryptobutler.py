@@ -30,8 +30,8 @@ def how_to_use(update: Update, context: CallbackContext) -> None:
     help_text = """
     🤖 *How to Use This Bot* 🤖
 
-    You can use this bot in two ways:
-    1. Forward a message from a chat to the CryptoButler bot directly. The sequence should start right after you share the fwd message. The message should not be from you, otherwise it will just log your username.
+    You can use this bot in two ways after meeting someone and starting a TG chat:
+    1. Forward a message from a chat to the CryptoButler bot directly. The CRM sequence should start right after you share the fwd message. The message should not be from you, otherwise it will just log your username.
     2. Manually add an account using the manual command
     3. These are the datapoints that you can add in:
         date: Auto

@@ -3,7 +3,7 @@ Telegram CRM bot
 
 CryptoButler is meant to keep track of people you have met over TG (like at a conference or event). Anytime you meet someone at a conference and create a telegram chat, you can fwd their the message to the bot. The bot will then kick off a series of questions for you to fill out, and after that it generates a CSV. As you meet more and more people the CSV stores that info. Fields: Date, Username, Company, Where you met, Description, Priority. All the fields are optional and you csn skip them if you want.
 
-Its pretty lightwieght and csv refreshes every 24hrs or so, cause i dont want the data stored in any database.
+Its pretty lightwieght and csv refreshes every 24hrs or so, since data is not stored in any database.
 
 
 CryptoButler
